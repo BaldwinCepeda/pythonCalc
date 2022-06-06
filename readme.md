@@ -1,4 +1,4 @@
-This repo acts a calculator for this formula
+This repo acts a calculator for the formula below,
 any questions feel free to reach out to me
 baldwin@polygon.technology.com
 
